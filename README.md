@@ -1,4 +1,4 @@
-## Disney Clone with GraphCMS
+## Nothing
 
 This repo is in support to the video tutorial on how to build a Disney Clone with GraphCMS.
 
